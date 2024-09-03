@@ -9,14 +9,14 @@
  * that starts the plugin.
  *
  * @link              https://astabumi.com/
- * @since             1.0.0
+ * @since             1.0.1
  * @package           virtual_office_order
  *
  * @wordpress-plugin
  * Plugin Name:       Virtual Office Order
  * Plugin URI:        https://github.com/webasta/virtual-office-order
  * Description:       Plugin for order system virtual office
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Sahrul Ramadhan
  * Author URI:        https://christophercasper.com/
  * License:           GPL-2.0+
@@ -35,7 +35,7 @@ if ( ! defined( 'WPINC' ) ) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define( 'PLUGIN_NAME_VERSION', '1.0.0' );
+define( 'PLUGIN_NAME_VERSION', '1.0.1' );
 
 /**
  * The code that runs during plugin activation.
